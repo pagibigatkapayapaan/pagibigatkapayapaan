@@ -6,5 +6,3 @@ clean backyard again
 walk in the park
 attend important meeting
 something
-clean application
-master python
