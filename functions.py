@@ -1,4 +1,4 @@
-def get_todo(filepath='todo.txt'):
+def get_todos(filepath='todo.txt'):
     """Read the text file and return the list of todos items."""
     with open(filepath, 'r') as f:
         todos_local = f.readlines()
